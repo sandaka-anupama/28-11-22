@@ -1,0 +1,12 @@
+#PROGRAM TO DO  THE ATM BALANCE CREDICT PROCESS
+b=int(input('enter balance:'))
+a=int(input('enter amount:'))
+Main_balance=a+b
+print('Credited amount:',a)
+print('Main balance:',Main_balance)
+output:
+=== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/hj.py ==
+enter balance:2000
+enter amount:3000
+Credited amount: 3000
+Main balance: 5000
