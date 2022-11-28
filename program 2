@@ -1,0 +1,20 @@
+#A PROGRAM TO CHECK THE GIVEN PIN NUMBER IS VALID OR NOT
+b=3421
+a=int(input('enter pin number:'))
+if b==a:
+    print('Pin number is valid')
+    print('Continue the transactions')
+else:
+    print('Incorrect pin number')
+    print('Please try again')
+        
+output:
+=== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/hj.py ==
+enter pin number:3421
+Pin number is valid
+Continue the transactions
+
+=== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/hj.py ==
+enter pin number:5678
+Incorrect pin number
+Please try again
